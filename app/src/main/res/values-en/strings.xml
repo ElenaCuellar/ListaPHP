@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaPHP</string>
+    <string name="tituloprefip">Server IP</string>
+    <string name="carg">Loading...</string>
+    <string name="jsonnulo">Null JSON Array</string>
+    <string name="errCon">Error while trying connection</string>
+    <string name="menuPrefe">Preferences</string>
+    <string name="arraynulo">Two JSON array is null</string>
+    <string name="aceptar">OK</string>
+    <string name="categ">"Genre: "</string>
+    <string name="sinops">"Synopsis: "</string>
+    <string name="val">"Rating: "</string>
+    <string name="generosok">Genres loaded successfully</string>
+    <string name="pelisok">Films loaded successfully</string>
+</resources>

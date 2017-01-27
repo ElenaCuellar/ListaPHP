@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="ipServer"
+        android:title="@string/tituloprefip"
+        android:summary="@string/tituloprefip"
+        android:dialogTitle="@string/tituloprefip"
+        android:defaultValue="iesayala.ddns.net"/>
+
+</PreferenceScreen>

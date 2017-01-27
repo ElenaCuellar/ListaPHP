@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListaPHP</string>
+    <string name="tituloprefip">IP del servidor</string>
+    <string name="carg">Cargando...</string>
+    <string name="jsonnulo">JSON Array nulo</string>
+    <string name="arraynulo">Array de 2 JSON nulo</string>
+    <string name="errCon">Error al probar la conexion</string>
+    <string name="menuPrefe">Preferencias</string>
+    <string name="categ">Categoria: </string>
+    <string name="val">Valoracion: </string>
+    <string name="sinops">Sinopsis: </string>
+    <string name="aceptar">Aceptar</string>
+    <string name="generosok">Generos cargados correctamente</string>
+    <string name="pelisok">Peliculas cargadas correctamente</string>
+</resources>
